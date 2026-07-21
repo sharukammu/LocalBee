@@ -1,0 +1,6 @@
+{
+  "name": "LocalBee",
+  "description": "LocalBee is a hyper-local e-commerce app that lets customers easily search and order fresh fruits, vegetables, food, groceries, daily essentials, and unique gifts directly to their doorstep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
